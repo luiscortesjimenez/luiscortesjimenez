@@ -1,6 +1,6 @@
 ### Luis Cortes Jimenez
 
-Junior Computer Science student at Sonoma State University. Interested in Computer Vision for ecological conservation — specifically using high-resolution satellite imagery to identify and protect endangered plant species.
+Junior Computer Science student at Sonoma State University. Interested in Computer Vision for ecological conservation — specifically using high-resolution satellite imagery to identify and protect endangered species.
 
 ---
 
